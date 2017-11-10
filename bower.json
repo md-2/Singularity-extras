@@ -8,7 +8,7 @@
     "components"
   ],
   "dependencies": {
-    "singularity": "~>1.2.0.rc.1",
+    "singularity": "~>1.2.0-rc.1",
     "modular-scale": "~>2.0.0.alpha5"
   }
 }
